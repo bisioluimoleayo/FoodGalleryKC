@@ -102,7 +102,7 @@ food.forEach(i => {
   </div>
   
   `
-  console.log(i)
+  console.log(i);
   thegallery.innerHTML  =html
 });
 
